@@ -30,6 +30,4 @@ Connecting remote repository with a local repository
 Pushing code to github
 `git push`
 
-
-
 **upstream means from local to to remote and vice versa
