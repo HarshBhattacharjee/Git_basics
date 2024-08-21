@@ -25,10 +25,11 @@ Putting commit/finalising version of code
 `git commit -m "<commit-message>"`
 
 Connecting remote repository with a local repository
-`git remote add origin git@github.com:<profile-name>/<repo-name>.git`
+`git remote add origin https://github.com:<profile-name>/<repo-name>.git`
 
 Pushing code to github
 `git push`
+
 
 
 **upstream means from local to to remote and vice versa
